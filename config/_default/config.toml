@@ -3,7 +3,7 @@ title = "Kasafaurin"
 theme = "github.com/razonyang/hugo-theme-bootstrap"
 copyright = "Copyright © 2016-{year} Kasafaurin. All Rights Reserved."
 
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 
 enableRobotsTXT = true
