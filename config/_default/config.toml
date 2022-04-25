@@ -1,4 +1,4 @@
-baseurl = "https://pengantar.github.io/"
+baseurl = "https://bstmentah.pages.dev/"
 title = "Kasafaurin"
 theme = "github.com/razonyang/hugo-theme-bootstrap"
 copyright = "Copyright © 2016-{year} Kasafaurin. All Rights Reserved."
